@@ -1,0 +1,15 @@
+{
+  "auto-start-server": "",
+  "servers": [
+    {
+      "application": "",
+      "device-id": "{10fb97b7-11e9-41e1-856d-c43c1346343d}",
+      "device-name": "Recette_WEB",
+      "host-name": "wms-central-rec.net.intra.laposte.fr",
+      "last-connexion": "2025-12-23T12:02:54.797",
+      "secure-port": -1,
+      "server-id": "1",
+      "uri": "wss://wms-central-rec.net.intra.laposte.fr/"
+    }
+  ]
+}
